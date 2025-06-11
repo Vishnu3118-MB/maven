@@ -1,0 +1,18 @@
+/* v.css */
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+img {
+    width: 200px;
+}
+
+p {
+    color: #444;
+}
